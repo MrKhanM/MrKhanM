@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @MrKhanM
-- 👀 I’m interested in Android Development and Web development.
-- 🌱 I’m currently learning Android, Flutter and Python Django.
-- 💞️ I’m looking to collaborate on Android development
-- 📫 You can reach me using khanmujahid00786@gmail.com
+# Mujahid Khan — Strategy & Analytics Professional
 
-<!---
-MrKhanM/MrKhanM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Results-driven Strategy & Analytics professional with 3+ years 
+of BFSI experience at Kotak Life Insurance. Specialized in 
+translating complex business problems into data-driven insights 
+using Power BI, SQL, and Excel.
+
+Currently building an analytics portfolio focused on the 
+Life Insurance domain.
+
+## Tech Stack
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white)
+
+## Featured Project
+### 🏦 Life Insurance Customer Persistency Analysis
+> Diagnosed 22% profit decline at a life insurance company 
+> using SQL, Power BI and DAX
+
+**Key Findings:**
+- ₹57.4 Lakhs in renewal revenue lost to lapsation
+- 2 High Risk churning agents detected (78% & 71% lapse rate)
+- ULIP products lowest persistency at 45%
+- HNI segment best performers at 19% lapse rate
+
+**Tools:** SQL • Power BI • DAX • Excel • SQLite
+
+## Domain Expertise
+- Life Insurance & BFSI Strategy
+- Customer Persistency Analysis
+- Agent Performance Analytics
+- Competitive Intelligence
+- IRDAI Regulatory Reporting
+
+## Connect
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:khanmujahid00786@gmail.com)
